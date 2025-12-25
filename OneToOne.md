@@ -1,4 +1,5 @@
 # One to One
+> Each stud have 1 laptop
 Stud.java:
 ```java
 package org.example;
